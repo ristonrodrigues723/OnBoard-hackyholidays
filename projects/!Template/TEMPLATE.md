@@ -1,15 +1,15 @@
 ---
-name: "FIRST LAST"
+name: "RISTON RODRIGUES"
 slack_handle: "@SLACK HANDLE"
-github_handle: "@GITHUB HANDLE"
-tutorial: # Link to the tutorial if you used one
-wokwi: # Link to the Wokwi project if you're submitting for Hacky Holidays
+github_handle: "@ristonrodrigues723"
+tutorial: no tutorial used self created
+wokwi: https://wokwi.com/projects/421112349242722305
 ---
 
-# YOUR PROJECT NAME
+# Star-using-neopixels
 
-<!-- Describe your board in 2-3 sentences. What are you making? What will it do? -->
+<!--S star shaped pcb with 6 major sand 5 minor led strips(groups)  can be programmed  as needed through ardino-->
 
 <!-- How much is it going to cost? -->
 
-<!-- Tell us a little bit about your design process. What were some challenges? What helped? ***Totally optional*** -->
+<!-- originally stgarted as a snowflake themed pcb but then size constraints forced me to change design iy still use the same schematic -->
